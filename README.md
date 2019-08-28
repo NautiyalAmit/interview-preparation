@@ -6,13 +6,17 @@ The items listed here to prepare well for an interview at just about any softwar
 1 ***Single Variable Calculas*** (BOOKS:NCERT)
 Further, for MIT's assignment and notes refer:https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/syllabus/
 
-2  ***Multivariable Calculus*** is a formal prerequisite for Data Science students before going into  Linear Algebra?(BOOK:Edwards, Henry C., and David E. Penney. Multivariable Calculus).
+2  ***Multivariable Calculus*** is a formal prerequisite for Data Science students before going into  Linear Algebra
+(BOOK:Edwards, Henry C., and David E. Penney. Multivariable Calculus).
 Further, for MIT's assignment and notes refer:https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/syllabus/
 
 3 ***Linear Algebra*** (BOOK:Strang, Gilbert. Introduction to Linear Algebra. 5th ed. Wellesley)
 Further, for MIT's assignment and notes refer:https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/syllabus/
 
-4 ***Introduction to Probability and Statistics*** (
+4 ***Introduction to Probability and Statistics*** 
+Further, for MIT's assignment and notes refer:https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/
+
+***Note***:Before indepth knowlege of the above specializations, the below resources are of no use 
 
 ## The Data Scientist’s Toolbox
 ### Specialization Textbooks
