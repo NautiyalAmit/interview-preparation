@@ -2,6 +2,18 @@
 The items listed here to prepare well for an interview at just about any software company, including the giants: Amazon, Facebook, Google or Microsoft.
 
 # Data Science
+### Pre Requisite :
+1 ***Single Variable Calculas*** (BOOKS:NCERT)
+Further, for MIT's assignment and notes refer:https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/syllabus/
+
+2  ***Multivariable Calculus*** is a formal prerequisite for Data Science students before going into  Linear Algebra?(BOOK:Edwards, Henry C., and David E. Penney. Multivariable Calculus).
+Further, for MIT's assignment and notes refer:https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/syllabus/
+
+3 ***Linear Algebra*** (BOOK:Strang, Gilbert. Introduction to Linear Algebra. 5th ed. Wellesley)
+Further, for MIT's assignment and notes refer:https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/syllabus/
+
+4 ***Introduction to Probability and Statistics*** (
+
 ## The Data Scientist’s Toolbox
 ### Specialization Textbooks
 
