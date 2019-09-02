@@ -14,11 +14,11 @@ Mathematics is the core of datascience and since most of the problems in this do
 | `TROGNOMETRY AND INVERSE TRIGNOMETRY`      | Chapters:3      | Chapters:2      |
 
 
-1 ***Single Variable Calculas*** (BOOKS:NCERT)
+1 ***Single Variable Calculas*** (BOOKS:James Stewart :Single_Variable_Calculus)
 Further, for MIT's assignment and notes refer:https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/syllabus/
 
 2  ***Multivariable Calculus*** is a formal prerequisite for Data Science students before going into  Linear Algebra
-(BOOK:Edwards, Henry C., and David E. Penney. Multivariable Calculus).
+(BOOK:Edwards, Henry C., and David E. Penney. Multivariable Calculus |James Stewart :Single_Variable_Calculus).
 Further, for MIT's assignment and notes refer:https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/syllabus/
 
 3 ***Linear Algebra*** (BOOK:Strang, Gilbert. Introduction to Linear Algebra. 5th ed. Wellesley)
