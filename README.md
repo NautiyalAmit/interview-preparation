@@ -19,6 +19,7 @@ Further, for MIT's assignment and notes refer:https://ocw.mit.edu/courses/mathem
 Further, for MIT's assignment and notes refer:https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/
 
 **REFERENCE :**
+
 |LIST OF TOPICS                              | NCERT 11th      | NCERT 12th      |
 | ---                                        | ---             | ---             |
 | `SETS, RELATION , FUNTIONS`                | Chapters:1,2    | Chapters:1      |
