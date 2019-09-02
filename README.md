@@ -1,5 +1,5 @@
 # My-Library
-The items listed here to prepare well for an interview at just about any software company, including the giants: Amazon, Facebook, Google or Microsoft.
+The items listed here  are to prepare  us well  towards being a good Computer Science scholar.These are also a reference for interview preparation. 
 
 # Data Science
 ### Pre Requisite :
