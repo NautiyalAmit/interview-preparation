@@ -3,7 +3,7 @@ The items listed here to prepare well for an interview at just about any softwar
 
 # Data Science
 ### Pre Requisite :
-Mathematics is the core of datascience and since most od the problems in this domain are arcane .So  a greater understanding of mathematical concepts in and out are required for research purpose.
+Mathematics is the core of datascience and since most of the problems in this domain are arcane .So, a better understanding of mathematical concepts in and out are required for research purpose.
 
 1 ***Single Variable Calculas*** (BOOKS:NCERT)
 Further, for MIT's assignment and notes refer:https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/syllabus/
