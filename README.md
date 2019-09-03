@@ -20,13 +20,13 @@ Further, for MIT's assignment and notes refer:https://ocw.mit.edu/courses/mathem
 
 **REFERENCE :**
 
-|LIST OF TOPICS                              | NCERT 11th      | NCERT 12th      |
-| ---                                        | ---             | ---             |
-| `SETS, RELATION , FUNTIONS`                | Chapters:1,2    | Chapters:1      |
-| `MATRICES AND VECTORS`                     | Chapters:       | Chapters:4,10   |
-| `LIMITS AND DIFFERNTIATION +APPLICATIONS`  | Chapters:13     | Chapters:5,6,9  |
-| `INTEGRATION AND APPLICATIONS `            | Chapters:       | Chapters:7,8    |
-| `TROGNOMETRY AND INVERSE TRIGNOMETRY`      | Chapters:3      | Chapters:2      |
+|LIST OF TOPICS                              | NCERT 11th      | NCERT 12th      |James stewart single var  |
+| ---                                        | ---             | ---             |---                       |
+| `SETS, RELATION , FUNTIONS`                | 1,2             | 1               |                          |
+| `MATRICES AND VECTORS`                     |                 | 4,10            |                          |
+| `LIMITS AND DIFFERNTIATION +APPLICATIONS`  | 13              | 5,6,9           |                          |
+| `INTEGRATION AND APPLICATIONS `            |                 | 7,8             |                          |
+| `TROGNOMETRY AND INVERSE TRIGNOMETRY`      | 3               | 2               |                          |
 
 ***Note***:Before indepth knowlege of the above specializations, the below resources are of no use 
 
