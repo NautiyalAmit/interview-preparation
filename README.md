@@ -22,11 +22,13 @@ Further, for MIT's assignment and notes refer:https://ocw.mit.edu/courses/mathem
 
 |LIST OF TOPICS                              | NCERT 11th      | NCERT 12th      |James stewart single var  |
 | ---                                        | ---             | ---             |---                       |
-| `SETS, RELATION , FUNTIONS`                | 1,2             | 1               |    1                      |
+| `SETS, RELATION , FUNTIONS`                | 1,2             | 1               |    1                     |
 | `MATRICES AND VECTORS`                     |                 | 4,10            |                          |
-| `LIMITS AND DIFFERNTIATION +APPLICATIONS`  | 13              | 5,6,9           |  2,3,4,9                        |
-| `INTEGRATION AND APPLICATIONS `            |                 | 7,8             |    5,6,7,8                      |
+| `LIMITS AND DIFFERNTIATION +APPLICATIONS`  | 13              | 5,6,9           |  2,3,4,9                 |
+| `INTEGRATION AND APPLICATIONS `            |                 | 7,8             |    5,6,7,8               |
 | `TROGNOMETRY AND INVERSE TRIGNOMETRY`      | 3               | 2               |                          |
+| `Permutation&combination*(For Probablity)` | 7(binomial),8   |                 |                          |
+| `Probability*`                             | 16              | 13              |                          |
 
 ***Note***:Before indepth knowlege of the above specializations, the below resources are of no use 
 
